@@ -45,6 +45,7 @@ Built with **Node.js, Express, MongoDB, JWT authentication, Zod validation, and 
 
 ## 📂 Project Structure
 
+```text
 project/
 ├── controllers/
 │   ├── authController.js
@@ -80,7 +81,7 @@ project/
 ├── package.json
 ├── index.js
 └── README.md
-
+```
 
 
 
